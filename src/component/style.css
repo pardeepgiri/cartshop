@@ -1,0 +1,66 @@
+.headermaindiv{
+    background-color: #2f68f7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 26px;
+    border-bottom: 3px solid wheat;   
+}
+.sitename:hover{
+    border-bottom: 2px solid white;
+}
+
+.searchbar{
+    height: 26px;
+    width: 286px;
+    font-size: 20px;
+
+}
+
+.img{
+    padding-left: 30px;
+    /* padding-right: 30px; */
+    width:320px;
+    height: 330px;
+    padding-top: 20px;
+
+  
+  }
+  .product-image{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    line-height: 60%;
+    justify-content: space-between;
+    
+  }
+.fotter{
+    padding-top: 6px;
+    background: #070708;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+    line-height: 30px;
+  
+  }
+  .fotter-flex{
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .carditem{
+    min-height: 60vh;
+  }
+
+  .supcart{
+    background-color:#f73f39;
+    border-radius: 50%;
+    padding: 3px;
+  }
